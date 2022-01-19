@@ -15,3 +15,4 @@ Kevin Xu
 - [地心引力](https://walnut.hedwig.pub/) by Walnut
 - [逆流Upstream](https://zhiy.cc/upstream) by 逆流Upstream 
 - [事不过三](https://via.hedwig.pub/) by 文浩
+- [GeekPlux Lab](https://geekplux.zhubai.love/) by GeekPlux
