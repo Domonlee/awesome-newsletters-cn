@@ -17,3 +17,4 @@ Kevin Xu
 - [事不过三](https://via.hedwig.pub/) by 文浩
 - [GeekPlux Lab](https://geekplux.zhubai.love/) by GeekPlux
 - [棱镜通讯](https://www.wangyurui.top/tags/Newsletter/) by Ludwig
+- [意游未尽](https://pangliacci.hedwig.pub/) 
