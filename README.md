@@ -19,3 +19,4 @@ Kevin Xu
 - [棱镜通讯](https://www.wangyurui.top/tags/Newsletter/) by Ludwig
 - [意游未尽](https://pangliacci.hedwig.pub/) 
 - [The Quibbler](https://thequibbler.zhubai.love/) by 李奇
+- [anpu](https://www.anpu-oystermusic.com/) by 张悬
