@@ -20,3 +20,6 @@ Kevin Xu
 - [意游未尽](https://pangliacci.hedwig.pub/) 
 - [The Quibbler](https://thequibbler.zhubai.love/) by 李奇
 - [anpu](https://www.anpu-oystermusic.com/) by 张悬
+- [随意搜寻](https://www.getrevue.co/profile/thinkingjimmy) by JimmyWang
+- [产品沉思录](https://pmthinking.com/subscribe) by 少楠
+- [一飞周报](https://harryyifei.com/weekly) by harryyifei
