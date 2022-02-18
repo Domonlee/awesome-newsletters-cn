@@ -23,3 +23,4 @@ Kevin Xu
 - [随意搜寻](https://www.getrevue.co/profile/thinkingjimmy) by JimmyWang
 - [产品沉思录](https://pmthinking.com/subscribe) by 少楠
 - [一飞周报](https://harryyifei.com/weekly) by harryyifei
+- [Shyrism.News](https://shyrz.zhubai.love/) by Shyrz
