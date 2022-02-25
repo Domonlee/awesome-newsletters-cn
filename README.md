@@ -24,3 +24,5 @@ Kevin Xu
 - [产品沉思录](https://pmthinking.com/subscribe) by 少楠
 - [一飞周报](https://harryyifei.com/weekly) by harryyifei
 - [Shyrism.News](https://shyrz.zhubai.love/) by Shyrz
+- [Anyway.News](https://anyway.zhubai.love/) By Anyway
+- [Re:Play](https://replay.cafe/) By Justin, Oscar, Clu
