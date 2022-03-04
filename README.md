@@ -27,3 +27,4 @@ Kevin Xu
 - [Anyway.News](https://anyway.zhubai.love/) By Anyway
 - [Re:Play](https://replay.cafe/) By Justin, Oscar, Clu
 - [笨方法实验室来信](http://newsletter.hardwaylab.com/) By 陈素封
+- [刻意体会](https://kyth.hedwig.pub/) By Kyth
