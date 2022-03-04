@@ -6,8 +6,7 @@ Newsletter是一种资讯获取的方式，通过邮件的形式定期的接受�
 - [Happy letter](http://xiao.do/) by happy xiao
 - [Steve说每周通讯](https://steve.hedwig.pub/) by Steve
 - [Λ-Reading](https://rizime.substack.com/) by Λ-Reading
-- [Interconnected](https://interconnected.blog/) by
-Kevin Xu
+- [Interconnected](https://interconnected.blog/) by Kevin Xu
 - [在诗外](https://lauren.hedwig.pub/) by Lauren
 - [海上星光](https://hsxg.ghost.io/) by 阿小小海&尤a娜
 - [简悦周报](https://simpread.zhubai.love/) by Kenshin
@@ -28,3 +27,6 @@ Kevin Xu
 - [Re:Play](https://replay.cafe/) By Justin, Oscar, Clu
 - [笨方法实验室来信](http://newsletter.hardwaylab.com/) By 陈素封
 - [刻意体会](https://kyth.hedwig.pub/) By Kyth
+
+
+点击[这里](https://www.domon.cn/zhong-wen-quan-news/)访问文章版
