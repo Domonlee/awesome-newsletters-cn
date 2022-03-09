@@ -27,6 +27,8 @@ Newsletter是一种资讯获取的方式，通过邮件的形式定期的接受�
 - [Re:Play](https://replay.cafe/) By Justin, Oscar, Clu
 - [笨方法实验室来信](http://newsletter.hardwaylab.com/) By 陈素封
 - [刻意体会](https://kyth.hedwig.pub/) By Kyth
+- [本夜朽舎](https://honyakusha.zhubai.love/) By Harvey Janson
+- [推播助栏](https://cnpodpick.zhubai.love/) By Enzo Chen
 
 
 点击[这里](https://www.domon.cn/zhong-wen-quan-news/)访问文章版
