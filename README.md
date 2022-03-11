@@ -29,6 +29,7 @@ Newsletter是一种资讯获取的方式，通过邮件的形式定期的接受�
 - [刻意体会](https://kyth.hedwig.pub/) By Kyth
 - [本夜朽舎](https://honyakusha.zhubai.love/) By Harvey Janson
 - [推播助栏](https://cnpodpick.zhubai.love/) By Enzo Chen
+- [好工具周刊](https://discuss-cn.bestxtools.com/t/weekly) By BestXTools
 
 
 点击[这里](https://www.domon.cn/zhong-wen-quan-news/)访问文章版
