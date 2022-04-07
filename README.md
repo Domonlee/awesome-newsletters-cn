@@ -32,7 +32,8 @@ Newsletter是一种资讯获取的方式，通过邮件的形式定期的接受�
 - [好工具周刊](https://discuss-cn.bestxtools.com/t/weekly) By BestXTools
 - [DEX周刊](https://newsletter.dex.group/) By 丁一
 - [DecoHack](https://www.decohack.com/Post/28) By Deco
-- [MonoGoto](https://monogoto.ryouissei.com/)By Issei
+- [MonoGoto](https://monogoto.ryouissei.com/) By Issei
+- [漫无目的](https://domon.zhubai.love/) By Dennis
 
 
 点击[这里](https://www.domon.cn/zhong-wen-quan-news/)访问文章版
