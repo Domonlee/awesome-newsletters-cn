@@ -36,10 +36,10 @@ Newsletter是一种资讯获取的方式，通过邮件的形式定期的接受�
 |[好工具周刊](https://discuss-cn.bestxtools.com/t/weekly) | BestXTools | 产品 |
 |[DEX周刊](https://newsletter.dex.group/) | 丁一 | 设计，产品 |
 |[DecoHack](https://www.decohack.com/Post/28) | Deco | 产品 |
+|[互联网时代的搜商](https://search.zhubai.love/) | 江湖人称向前兄 | 技术，互联网搜索 |
+|[三十七周刊](http://nl.37weekly.com/) | Kun | 生活，个人成长 |
 |[Design Scenes Weekly](https://designscenes.zhubai.love/) | fenx | 设计，产品 |
 |[BLUE·周刊](https://huazi.zhubai.love/) | Huazi | 设计 |
-|[三十七周刊](http://nl.37weekly.com/) | Kun | 生活，文化 |
-
 
 
 点击[这里](https://www.domon.cn/zhong-wen-quan-news/)访问文章版
