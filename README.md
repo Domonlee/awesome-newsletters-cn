@@ -41,6 +41,6 @@ Newsletter是一种资讯获取的方式，通过邮件的形式定期的接受�
 |[Design Scenes Weekly](https://designscenes.zhubai.love/) | fenx | 设计，产品 |
 |[BLUE·周刊](https://huazi.zhubai.love/) | Huazi | 设计 |
 |[工劳小报](https://newsletter.laborinfocn.com/) | 蒋编辑 | 劳动，新闻 |
-
+|[噗噗观止](https://fengchenpupu.zhubai.love/) | 风尘噗噗 | 技术，见闻 |
 
 点击[这里](https://www.domon.cn/zhong-wen-quan-news/)访问文章版
