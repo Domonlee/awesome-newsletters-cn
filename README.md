@@ -47,3 +47,5 @@ Newsletter是一种资讯获取的方式，通过邮件的形式定期的接受�
 |[省流](https://shengliu.tech/) | 王铁柱 | 科技 技术 资讯|
 
 点击[这里](https://www.domon.cn/zhong-wen-quan-news/)访问文章版
+
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
