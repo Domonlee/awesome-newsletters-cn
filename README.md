@@ -43,7 +43,7 @@ Newsletter是一种资讯获取的方式，通过邮件的形式定期的接受�
 |[工劳小报](https://newsletter.laborinfocn.com/) | 蒋编辑 | 劳动，新闻 |
 |[噗噗观止](https://fengchenpupu.zhubai.love/) | 风尘噗噗 | 技术，见闻 |
 |[硬核小卒](https://hardcored.substack.com) | Jackson Wu | 技术，产品，见闻|
-|[Python潮流周刊](https://pythoncat.substack.com) | 豌豆花下猫 | 编程 技术 开源|
+|[Python潮流周刊](https://weekly.pythoncat.top/) | 豌豆花下猫 | 编程 技术 开源|
 |[省流](https://shengliu.tech/) | 王铁柱 | 科技 技术 资讯|
 |[AI Tools Radar 每日简报](https://aitoolsradar.com/zh/newsletter) | AI Tools Radar 编辑团队 | 人工智能，科技，产业资讯 |
 |[AIVIZENS](https://aivizens.com/?utm_source=awesome_newsletters_cn&utm_medium=submission) | Paul | 人工智能，一人公司，工具 |
